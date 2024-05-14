@@ -1,6 +1,5 @@
 SELECT 
     indice_tiempo,
-    empresa,
     direccion,
     localidad,
     provincia,
