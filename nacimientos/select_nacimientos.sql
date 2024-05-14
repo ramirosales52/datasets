@@ -1,7 +1,8 @@
 SELECT 
   p.provincia_nombre,
   p.nacimientos_cantidad,
-  p.departamento_nombre
+  p.departamento_nombre,
+  p.anio
 FROM 
   nacimientos p
 WHERE 
