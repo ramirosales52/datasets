@@ -2,7 +2,7 @@ SELECT
   p.provincia_nombre,
   p.nacimientos_cantidad,
   p.departamento_nombre,
-  p.anio
+  p.anio AS año
 FROM 
   nacimientos p
 WHERE 
