@@ -7,7 +7,6 @@ SELECT
     producto,
     tipohorario,
     precio,
-    fecha_vigencia,
     empresabandera
 FROM
     precios_nafta
